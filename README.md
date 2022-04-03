@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepakadhikari84
-- 👀 I’m interested in python and c++ to enable end-to-end development and data science.
+- 👀 I’m interested in data science, DevOps, and MLOps.  Primarily familiar with C++ and python.
 - 🌱 I’m currently learning cloud computing, kurbenetes, containerization, pipelining.
 - 💞️ I’m looking to collaborate on contributing to existing application/framework, and learning on cloud platform.
 
